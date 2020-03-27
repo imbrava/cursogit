@@ -1,2 +1,3 @@
 Minhas anotacoes sobre git
-Aprendi sobre git add, git commit e git status
+Aprendi sobre git add, git commit
+Nova anotacao
